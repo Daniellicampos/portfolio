@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "P001",
+        "nome": "Caderno",
+        "quantidade": 10,
+        "preco": 15.9
+    },
+    {
+        "codigo": "P002",
+        "nome": "Caneta azul",
+        "quantidade": 25,
+        "preco": 2.5
+    }
+]
